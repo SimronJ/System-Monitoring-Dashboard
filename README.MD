@@ -3,6 +3,9 @@
 ## Overview
 The System Monitoring Dashboard is a real-time application designed to monitor various system metrics such as CPU usage, memory usage, API latency, disk usage, network usage, and temperature. It provides a visual representation of these metrics using charts and allows users to view logs and alerts for any anomalies detected in the system.
 
+## Demo Video
+[Demo Video](DEMO_SHOWCHASE.gif)
+
 ## Tech Stack
 - **Frontend**: 
   - React.js: A JavaScript library for building user interfaces.
